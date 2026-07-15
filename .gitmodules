@@ -1,0 +1,6 @@
+[submodule "dependencies/redefine-header"]
+	path = dependencies/redefine-header
+	url = git@github.com:morphingmachines/redefine-header.git
+[submodule "dependencies/emitrtl"]
+	path = dependencies/emitrtl
+	url = git@github.com:morphingmachines/emitrtl.git
